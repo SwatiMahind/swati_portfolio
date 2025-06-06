@@ -1,0 +1,19 @@
+.resume {
+  text-align: center;
+  padding: 2rem;
+}
+
+.resume-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #282c34;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.resume-button:hover {
+  background-color: #444;
+}
