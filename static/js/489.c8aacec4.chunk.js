@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[489],{489:(e,r,s)=>{s.r(r),s.d(r,{default:()=>l});s(43);var o=s(579);const l=()=>(0,o.jsxs)("div",{className:"resume",children:[(0,o.jsx)("h2",{children:"Resume"}),(0,o.jsx)("p",{children:"You can download my resume below:"}),(0,o.jsx)("a",{href:"/resume.pdf",target:"_blank",rel:"noopener noreferrer",className:"resume-button",children:"Download Resume"})]})}}]);
+//# sourceMappingURL=489.c8aacec4.chunk.js.map
